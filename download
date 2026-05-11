@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (可选，如果 Excel 很大可以忽略，但这里我们需要上传)
+# 吕蒙长编.xlsx
+
+# Cloudflared
+cloudflared.exe
